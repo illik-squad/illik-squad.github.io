@@ -41,7 +41,7 @@ h2{
 .logo{
 	width: 150px;
 }
-.ratusha{
+.slider__foto{
 	width: 500px;
 }
 header{
@@ -97,7 +97,7 @@ margin-top: 90px;
 .icons__item a:hover {
 	text-decoration: none;
 }
-.ratusha{
+.slider__foto{
 	display: block;
 	margin: 60px auto;
 }
@@ -169,7 +169,7 @@ margin-top: 90px;
 }
 /* Mediarequest */
 @media screen and (max-width: 1224px ){
-	.ratusha{
+	.slider__foto{
 		width: 100%;
 	}
 
@@ -204,7 +204,7 @@ margin-top: 90px;
 	}
 }
 @media screen and (max-width: 576px){
-	.ratusha{
+	.slider__foto{
 		width: 100%;
 	}
 	.menu{
